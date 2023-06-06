@@ -1,6 +1,7 @@
 # **PROYECTO FINAL** PART TIME DATA FEB 2023
+![](https://uploads-ssl.webflow.com/61702b2bca0865831b666952/61783723d9407a44a1829035_gamma_techschool-logo_yellow-p-500.png)
 
----
+>---
 ## ***1 - Objetivo:***
 
 La finalidad de este proyecto es que podamos poner en práctica todos los conocimientos y habilidades adquiridos durante el bootcamp y que el proyecto se convierta en un elemento más de nuestro portfolio de cara a futuras oportunidades laborales.
@@ -11,7 +12,7 @@ Por lo que es vital que nos esmeremos en pulir bien la presentación del proyect
 
 
 
----
+>---
 ## ***2 - Contenidos mínimos:***
 
 Lo deseable del proyecto es que sea lo más completo posible (dentro de las posibilidades de tiempo), pero como mínimo deberá contener los siguientes elementos:
@@ -23,14 +24,15 @@ Lo deseable del proyecto es que sea lo más completo posible (dentro de las posi
 
 Ante cualquier duda, preguntad y revisaremos el scope de vuestro proyecto, en caso de que haya que reducirlo /ampliarlo y ver que parte podemos incluir para la entrega y que parte se puede quedar como un ***next step***.
 
----
+>---
 
 ## ***3 - Entregables:***
 
 - Dentro del fichero `main.ipynb` deberás incluir el enlace a tu repositorio de GitHub, donde deberás tener todos los ficheros necesarios para que tu proyecto sea reproducible.
 
----
----
+
+
+>---
 ## ***4 - Bonus:***
 
 ### Contenido de un buen **README**:
