@@ -3,7 +3,8 @@
 <img src = "https://uploads-ssl.webflow.com/61702b2bca0865831b666952/61783723d9407a44a1829035_gamma_techschool-logo_yellow-p-500.png" />
 </p>
 
->---
+# INFO **IMPORTANTE** SOBRE EL PROYECTO
+
 ## ***1 - Objetivo:***
 
 La finalidad de este proyecto es que podamos poner en práctica todos los conocimientos y habilidades adquiridos durante el bootcamp y que el proyecto se convierta en un elemento más de nuestro portfolio de cara a futuras oportunidades laborales.
