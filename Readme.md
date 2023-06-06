@@ -1,6 +1,7 @@
 # **PROYECTO FINAL** PART TIME DATA FEB 2023
-![](https://uploads-ssl.webflow.com/61702b2bca0865831b666952/61783723d9407a44a1829035_gamma_techschool-logo_yellow-p-500.png)
-
+<p align='center'>
+<img src = "https://uploads-ssl.webflow.com/61702b2bca0865831b666952/61783723d9407a44a1829035_gamma_techschool-logo_yellow-p-500.png" />
+</p>
 >---
 ## ***1 - Objetivo:***
 
